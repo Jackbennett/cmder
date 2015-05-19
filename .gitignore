@@ -4,6 +4,7 @@
 vendor/*/*
 !vendor/*
 !vendor/psmodules/PsGet
+!vendor/psmodules/cmder
 
 config/.history
 Thumbs.db

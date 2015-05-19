@@ -1,3 +1,4 @@
+function Get-Vendor{
 <#
 .Synopsis
     Build Cmder
@@ -90,3 +91,5 @@ msbuild CmderLauncher.vcxproj /p:configuration=Release
 Pop-Location
 
 Write-Verbose "All good and done!"
+
+}
